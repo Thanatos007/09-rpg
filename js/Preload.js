@@ -16,7 +16,7 @@ TopDownGame.Preload.prototype = {
     this.load.image('gameTiles', 'assets/images/tiles.png');
     this.load.image('greencup', 'assets/images/greencup.png');
     this.load.image('bluecup', 'assets/images/bluecup.png');
-    this.load.image('player', 'assets/images/player.png');
+    this.load.image('player', 'assets/images/Muñeco_de_Torchic_IV.png');
     this.load.image('browndoor', 'assets/images/browndoor.png');
     
   },
